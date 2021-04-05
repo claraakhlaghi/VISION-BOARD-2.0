@@ -1,0 +1,52 @@
+.padding {
+  padding: 0.7%;
+}
+
+.arial {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.end {
+  text-align: end;
+}
+
+.peru {
+  color: peru;
+}
+
+.pink {
+  color: pink;
+}
+
+.aqua {
+  color: aqua;
+}
+
+body {
+  background-color: antiquewhite;
+}
+
+.font {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.sideways {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+}
+
+.backgroundaliceblue {
+  background-color:aliceblue;
+}
