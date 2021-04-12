@@ -44,7 +44,8 @@ body {
 
 .sideways {
   writing-mode: vertical-rl;
-  text-orientation: upright;
+  transform: rotate(10 deg);
+
 }
 
 .backgroundaliceblue {
